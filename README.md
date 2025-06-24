@@ -6,7 +6,7 @@ Easily monitor your current financial status.
 Keep detailed records of all transactions.
 # Visual Charts: 
 Interactive line and pie charts provide a clear breakdown of your spending and savings.
-# Transaction List: 
+# Transaction List:  
 Comprehensive lists of income and expenses for easy reference.
 
 Stay on top of your finances and achieve your financial goals with FinLedger!
